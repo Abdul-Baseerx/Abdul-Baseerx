@@ -42,6 +42,6 @@ Student at Methodist College of Engineering And Technology,
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-baseer-hussain-2b5a06235/"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png"    alt="linkedin"/> </a>
     <a href="mailto:baseerhussain44@gmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.instagram.com/camsviewx/?next=%2F" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_random..clicks_" height="65" width="65" /></a>
+  <a href="https://twitter.com/baseer07318957" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter">   </a>
    <a href="https://medium.com/@baseerhussain44"><img align="center" src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/>   </a>
-
-<a href="https://twitter.com/baseer07318957" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter">   </a>
