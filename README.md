@@ -7,7 +7,7 @@
 About me:
 I am Abdul Baseer Hussain
 Pursuing a bachelor's in Artificial Intelligence and Data Science,
-Student at Methodist College of Engineering And Technology,
+Student at Methodist College of Engineering And Technology.
 ```
 <br>
 <hr/>
