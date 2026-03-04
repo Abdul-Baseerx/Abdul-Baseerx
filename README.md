@@ -1,13 +1,13 @@
 <h1  align="center"> Hey!<img align="center" alt="Coding" height="40" width="40"src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" > I'm Abdul Baseer Hussain</h1>
-<h3 align="center"> An Artificial Intelligence and Machine Learning (AI&ML) enthusiast.</h3>
+<h3 align="center">A Cybersecurity enthusiast.</h3>
 <img align="right" alt="Coding"   height="250" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" >
 <hr/>
 
 ```
 About me:
 I am Abdul Baseer Hussain
-Pursuing a bachelor's in Artificial Intelligence and Data Science,
-Student at Methodist College of Engineering And Technology.
+Pursuing a masters's in Cybersecurity,
+Student at Coventry University.
 ```
 <br>
 <hr/>
