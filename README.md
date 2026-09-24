@@ -6,7 +6,7 @@
 ```
 About me:
 I am Abdul Baseer Hussain
-Pursuing a masters's in Cybersecurity,
+Pursuing a Master's in Cybersecurity,
 Student at Coventry University.
 ```
 <br>
